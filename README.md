@@ -5,8 +5,12 @@
      </a>
    </p>
    <p>
-     <img width="60%" src="https://github-readme-stats.vercel.app/api?username=thiago-js&show_icons=true&hide_border=true&theme=tokyonight" alt="thiago-js" />  
-     <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=thiago-js&hide_border=true&theme=tokyonight" alt="thiago-js" /> 
+     <a href="#">
+       <img href="#" width="60%" src="https://github-readme-stats.vercel.app/api?username=thiago-js&show_icons=true&hide_border=true&theme=tokyonight" alt="thiago-js" /> 
+     </a>
+     <a href="#">
+       <img href="#" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=thiago-js&hide_border=true&theme=tokyonight" alt="thiago-js" /> 
+     </a>
    </p>
 </p>
 
