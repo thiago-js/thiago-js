@@ -49,24 +49,23 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="jest" width="50" height="50" style="margin-left: 10px" /> 
   </a>  
   <a href="https://jestjs.io" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50" style="margin-left: 10px" /> 
+    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50" style="margin-left: 10px" style="margin-left: 10px" /> 
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="margin-left: 10px" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"  style="margin-left: 10px" />
   </a>
   <a href="https://sass-lang.com" target="_blank"> 
-    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" alt="sass" width="50" height="50" /> 
+    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" alt="sass" width="50" height="50"  style="margin-left: 10px" /> 
   </a>
   <a href="https://babeljs.io/" target="_blank"> 
-    <img src="https://user-images.githubusercontent.com/3025322/87547253-bf050400-c6a2-11ea-950a-280311bc6cc8.png" alt="babel" width="50" height="50" /> 
+    <img src="https://user-images.githubusercontent.com/3025322/87547253-bf050400-c6a2-11ea-950a-280311bc6cc8.png" alt="babel" width="50" height="50" style="margin-left: 10px" /> 
   </a>
-                <a href="https://webpack.js.org" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" />
-                </a>
-
+  <a href="https://webpack.js.org" target="_blank">
+      <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="webpack" width="50" height="50" style="margin-left: 10px"/>
+  </a>
 </p>
 
 <img src="./snake.svg" width="100%" alt="thiago-js"/>
