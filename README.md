@@ -68,4 +68,4 @@
   </a>
 </p>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake dark](dist/github-snake-dark.svg#gh-dark-mode-only)
