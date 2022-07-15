@@ -68,4 +68,4 @@
   </a>
 </p>
 
-<img src="./snake.svg" width="100%" alt="thiago-js"/>
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
