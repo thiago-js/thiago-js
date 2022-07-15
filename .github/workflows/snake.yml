@@ -1,4 +1,4 @@
-name: DevCard
+name: SnakeGame
 
 on:
   workflow_dispatch:
