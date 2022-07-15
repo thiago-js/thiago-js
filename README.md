@@ -68,4 +68,4 @@
   </a>
 </p>
 
-![GitHub Snake dark](dist/github-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/thiago-js/thiago-js/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
