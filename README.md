@@ -6,7 +6,7 @@
    </p>
    <p>
      <a href="#">
-       <img href="#" width="60%" src="https://github-readme-stats.vercel.app/api?username=thiago-js&hide_border=true&theme=tokyonight" alt="thiago-js" /> 
+       <img href="#" width="60%" src="https://github-readme-stats.vercel.app/api?username=thiago-js&&count_private=true&hide_border=true&theme=tokyonight" alt="thiago-js" /> 
      </a>
      <a href="#">
        <img href="#" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiago-js&hide_border=true&layout=compact&theme=tokyonight" alt="thiago-js" />
